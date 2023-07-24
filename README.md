@@ -1,6 +1,6 @@
-# online make cod egames
+# online make code games
 
-This is a list of online games if one goes down hopefully I'll update it and list it here 
+This is a list of online games if one goes down I'll update and post the new link here 
 
 sever 1
 https://aka.ms/a9b?join=3506E0
