@@ -3,7 +3,10 @@
 This is a list of online games if one goes down I'll update and post the new link here 
 
 the game
-https://makecode.com/_TqhfxPFoi1bz
+https://arcade.makecode.com/S62286-40213-63985-60520
 
-closed at night !!
-check back sometime tomorrow 
+sever 1 
+https://aka.ms/a9b?join=C86A82
+
+sever 2
+https://aka.ms/a9b?join=D14055
