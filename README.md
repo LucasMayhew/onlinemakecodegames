@@ -6,5 +6,5 @@ the game
 https://makecode.com/_TqhfxPFoi1bz
 
 sever 1
-https://aka.ms/a9b?join=6AF0D3
+https://aka.ms/a9b?join=A7B93F
 
