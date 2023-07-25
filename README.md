@@ -8,3 +8,6 @@ https://makecode.com/_TqhfxPFoi1bz
 sever 1
 https://aka.ms/a9b?join=C0A05A
 
+sever 2 
+https://aka.ms/a9b?join=096585
+
