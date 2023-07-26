@@ -7,8 +7,4 @@ next update is gona have classes to chose form
 the game
 https://arcade.makecode.com/S62286-40213-63985-60520
 
-sever 1
-https://aka.ms/a9b?join=1FF620
-
-sever 2 
-https://aka.ms/a9b?join=6964CC
+severs are down untill I fix some stuff 
