@@ -7,4 +7,5 @@ next update is gona have classes to chose form
 the game
 https://arcade.makecode.com/S62286-40213-63985-60520
 
-ofline till the next update 
+sever 1
+https://aka.ms/a9b?join=E0B9EA
